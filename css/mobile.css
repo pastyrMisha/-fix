@@ -1,0 +1,9 @@
+@media (min-width: 576px) {
+    .container {
+        max-width: 360px;
+    }
+
+    .container-fluid {
+        max-width: 540px;
+    }
+}
